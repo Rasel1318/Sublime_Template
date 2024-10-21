@@ -1,0 +1,48 @@
+<snippet>
+	<content><![CDATA[
+#include <bits/stdc++.h>
+
+using namespace std;
+using ll = long long int;
+using pii = pair<ll,ll>;
+using vi = vector<ll>;
+using vii = vector<pii>;
+
+#define mod 1000000007
+#define INF 1e9
+#define all(x) x.begin(), x.end()
+#define rep(i, j, n) for(int i=(j);i<(n);++i)
+#define repA(i,j,n) for(ll i=(j);i<=(n);++i)
+#define repD(i,j,n) for(ll i=(j);i>=(n);--i)
+#define sz(x) ((ll)(x).size())
+#define pb push_back
+#define ff first
+#define ss second
+
+void solve(){
+    int n;
+    cin >> n;
+    
+}
+
+int32_t main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    // freopen("txt.in", "r", stdin);
+    // freopen("txt.out", "w", stdout);
+    // cout<<std::setprecision(35);
+    
+    int _ = 1;
+    cin >> _;
+    while(_--){
+        solve();
+    }
+    return 0;
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>algo</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	 <scope>source.c++</scope> 
+</snippet>

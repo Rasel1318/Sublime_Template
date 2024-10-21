@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+c"], "command": "cancel_build" },
+	{ "keys": ["ctrl+d"], "command": "duplicate_line" },
+	{ "keys": ["ctrl+c"], "command": "copy" },
+	{ "keys": ["alt+down"], "command": "swap_line_down" },
+	{ "keys": ["alt+up"], "command": "swap_line_up" },
+]
