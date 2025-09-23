@@ -22,8 +22,9 @@ using vii = vector<pii>;
 #define ss second
 #define PI 3.141592653589793238462
 #define set_bits __builtin_popcountll
-#define sz(x) ((int)(x).size())
 #define all(x) (x).begin(), (x).end()
+#define no cout<<"NO\n"
+#define yes cout<<"YES\n"
 
 
 /*---------------------------------------------------------------------------------------------------------------------------*/
